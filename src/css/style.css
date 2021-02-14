@@ -1,0 +1,9 @@
+@import url('variable.css');
+@import url('general.css');
+@import url('media.css');
+
+
+* {font-family: 'Montserrat', sans-serif;}
+
+html {font-size:16px;}
+
